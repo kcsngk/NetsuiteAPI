@@ -1,0 +1,12 @@
+c:\users\kng\documents\visual studio 2012\Projects\NetsuiteAPI\NetsuiteAPI\bin\Debug\NetsuiteAPI.exe.config
+c:\users\kng\documents\visual studio 2012\Projects\NetsuiteAPI\NetsuiteAPI\bin\Debug\NetsuiteAPI.exe
+c:\users\kng\documents\visual studio 2012\Projects\NetsuiteAPI\NetsuiteAPI\bin\Debug\NetsuiteAPI.pdb
+c:\users\kng\documents\visual studio 2012\Projects\NetsuiteAPI\NetsuiteAPI\obj\Debug\NetsuiteAPI.csprojResolveAssemblyReference.cache
+c:\users\kng\documents\visual studio 2012\Projects\NetsuiteAPI\NetsuiteAPI\obj\Debug\NetsuiteAPI.exe
+c:\users\kng\documents\visual studio 2012\Projects\NetsuiteAPI\NetsuiteAPI\obj\Debug\NetsuiteAPI.pdb
+C:\Users\kng\Documents\Visual Studio 2012\Projects\NetsuiteFormApplication\NetsuiteAPI\NetsuiteAPI\bin\Debug\NetsuiteAPI.exe.config
+C:\Users\kng\Documents\Visual Studio 2012\Projects\NetsuiteFormApplication\NetsuiteAPI\NetsuiteAPI\bin\Debug\NetsuiteAPI.exe
+C:\Users\kng\Documents\Visual Studio 2012\Projects\NetsuiteFormApplication\NetsuiteAPI\NetsuiteAPI\bin\Debug\NetsuiteAPI.pdb
+C:\Users\kng\Documents\Visual Studio 2012\Projects\NetsuiteFormApplication\NetsuiteAPI\NetsuiteAPI\obj\Debug\NetsuiteAPI.csprojResolveAssemblyReference.cache
+C:\Users\kng\Documents\Visual Studio 2012\Projects\NetsuiteFormApplication\NetsuiteAPI\NetsuiteAPI\obj\Debug\NetsuiteAPI.exe
+C:\Users\kng\Documents\Visual Studio 2012\Projects\NetsuiteFormApplication\NetsuiteAPI\NetsuiteAPI\obj\Debug\NetsuiteAPI.pdb
